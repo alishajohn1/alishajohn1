@@ -3,16 +3,16 @@
 ###
 
 <div align="center">
-  <a href= "https://www.linkedin.com/in/aman-dubey-905932230/" target="_blank">
+  <a href= "https://www.linkedin.com/in/alishajohn/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="73" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:amandubey4354@gmail.com" target="_blank">
+  <a href="mailto:johnalisha01@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="73" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/its_me_ami_12/" target="_blank">
+  <!-- <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="73" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://leetcode.com/u/its_me_ami_12/" target="_blank">
+  </a> -->
+  <a href="https://leetcode.com/u/alishajohn/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" width="73" height="40" alt="Leetcode logo"  />
   </a>
 </div>
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Alisha John<br><br>- 🔭 Persuing B.Tech <br><br>- ⚡ In my free time I explore Internet</p>
+<p align="left">I'm Alisha John<br><br>- 🔭 Completed B.Tech from Computer Science <br><br>- ⚡ Working as a Software Developer</p>
 
 ###
 
