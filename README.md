@@ -31,7 +31,7 @@
 ```js
 const developer = {
   status:       "Actively upskilling · Open to opportunities",
-  currentFocus: ["DSA revision", "System Design", "Docker & DevOps"],
+  currentFocus: ["DSA ", "System Design", "Docker"],
   building:     "SaaS products with real-world integrations",
   techStack:    ["JavaScript", "Node.js", "React", "Next.js"],
   askMeAbout:   ["Full Stack Dev", "REST APIs", "AI integrations", "Stripe payments"],
@@ -53,7 +53,7 @@ const developer = {
         <img src="https://img.shields.io/badge/Stripe-payments-635BFF?style=flat-square&logo=stripe&logoColor=white" />
         <img src="https://img.shields.io/badge/SaaS-product-teal?style=flat-square" />
       </p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/codelens-ai">View Project →</a>
+      <a href="https://github.com/alishajohn1/codelens-ai">View Project →</a>
     </td>
   </tr>
 </table>
