@@ -53,7 +53,7 @@ const developer = {
         <img src="https://img.shields.io/badge/Stripe-payments-635BFF?style=flat-square&logo=stripe&logoColor=white" />
         <img src="https://img.shields.io/badge/SaaS-product-teal?style=flat-square" />
       </p>
-      <a href="https://github.com/alishajohn1/codelens-ai">View Project →</a>
+      <a href="https://github.com/alishajohn1/CodeLens_AI">View Project →</a>
     </td>
   </tr>
 </table>
